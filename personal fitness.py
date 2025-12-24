@@ -40,7 +40,7 @@ while True:
     elif choice == 3:
         show_summary()
     elif choice == 4:
-        print("Stay fit! 💪 Exiting program.")
+        print("Stay fit!Exiting program.")
         break
     else:
         print("Invalid choice! Try again.")
